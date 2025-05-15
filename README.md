@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Aplicativo simples desenvolvido com **React Native** para calcular o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos pelo usuário. O app também fornece a classificação do IMC conforme os padrões da OMS.
+Aplicativo simples desenvolvido com **React Native** para calcular o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos pelo usuário.
 
 ## Funcionalidades
 
